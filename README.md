@@ -5,5 +5,4 @@ Docker file in the repo:
 Run
 >> docker build -t javahello.app .
 >> docker run --name javahelloworld javahello.app
-
-=================
+--------------------
